@@ -6,6 +6,7 @@ final darkTheme = ThemeData(
   primarySwatch: Colors.yellow,
   listTileTheme: const ListTileThemeData(iconColor: Colors.white),
   appBarTheme: const AppBarTheme(
+      elevation: 0,
       titleTextStyle: TextStyle(
         color: Colors.white,
         fontSize: 20,
